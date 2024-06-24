@@ -1,2 +1,3 @@
 # chad-nvim
-My NvChad configuration.
+
+My NvChad configuration files in Lua.
